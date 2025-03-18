@@ -5,8 +5,9 @@ Soy Ingeniero de Software con experiencia en desarrollo web y móvil. Actualment
 ## 🚀 Sobre mí
 - 💻 Apasionado por la programación y en constante aprendizaje.
 - 📚 Me interesa el liderazgo y la mentalidad ganadora.
-- 🏋️‍♂️ Practico gimnasio y juego fútbol regularmente.
+- 👨‍💻 Trabajando en mi portafolio [devdiegomt](https://devdiegomt.vercel.app).
 - 🚀 Desarrollando **Mundo Gatuno**, una plataforma para venta y envío de productos para mascotas.
+- 🏋️‍♂️ Practico gimnasio y juego fútbol regularmente.
 - 🏍️ Amante de las motos desde hace más de 2 años.
 - 🎸 Uno de mis hobbies es tocar guitarra y estoy aprendiendo piano.
 
@@ -14,7 +15,7 @@ Soy Ingeniero de Software con experiencia en desarrollo web y móvil. Actualment
 - **Frontend**: React, React Native, HTML, CSS, JavaScript
 - **Backend**: Node.js, Express, MongoDB
 - **Control de versiones**: Git, GitHub
-- **Otras herramientas**: SCRUM, Marketing Digital, JIRA
+- **Otras herramientas**: SCRUM, Marketing Digital, JIRA, Confluence
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
