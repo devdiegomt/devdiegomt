@@ -6,7 +6,7 @@ Soy Ingeniero de Software con experiencia en desarrollo web y móvil. Actualment
 - 💻 Apasionado por la programación y en constante aprendizaje.
 - 📚 Me interesa el liderazgo y la mentalidad ganadora.
 - 👨‍💻 Trabajando en mi portafolio [devdiegomt](https://devdiegomt.vercel.app).
-- 🚀 Desarrollando [School Platform](https://schoolpt.vercel.app), una plataforma para la gestión de procesos en el colegio.
+- 🚀 Desarrollando [School Platform](https://mundogatuno.vercel.app), una plataforma e-commerce para la venta de productos para gatos.
 - 🏋️‍♂️ Practico gimnasio y juego fútbol regularmente.
 - 🏍️ Amante de las motos desde hace más de 2 años.
 - 🎸 Uno de mis hobbies es tocar guitarra y estoy aprendiendo piano.
